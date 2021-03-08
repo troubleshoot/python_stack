@@ -10,6 +10,8 @@
             Learn OOP, a style of organizing your code that is prevalent in web development.
             Don't underestimate how important it is to develop a solid understanding of OOP, which is a pivotal skill. This is why you spend the rest of your time at the bootcamp building on your understanding.
             Frameworks like Django, Rails, Angular, and iOS are built using an object oriented design pattern.
+            
+            
     Part 2: Flask + MySQL
         Intro to Flask:
             Learn how to make a web server using the Flask framework. You'll create web pages that can accept data sent from a client and return a response. This quick intro will take about 2 days.
@@ -21,6 +23,8 @@
             Extend your use of Flask to include data persistence using a database as storage.
             Challenge yourself to complete The Wall, an assignment that brings together all the skills and tools you've learned so far.
             Spend two days completing this section.
+            
+            
     Part 3: Django + Belt
         Django:
             The framework you've all been waiting for!
@@ -36,6 +40,8 @@
         Your instructor will give you more details as the date approaches.
         Try not to worry about this for now. The exam is low-pressure and can be retaken.
         The exam is open-web – meaning you have all of your previous code and the entire internet at your disposal!
+        
+        
     Part 4: Belt Retake + Projects
         Retake your belt exam if needed
         Do a project:
