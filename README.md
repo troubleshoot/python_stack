@@ -1,5 +1,5 @@
 # Python
-4 week Python course taken at Coding Dojo
+A 4 week Python course taken at Coding Dojo
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     Part 1: Python + Python OOP
         Installation
